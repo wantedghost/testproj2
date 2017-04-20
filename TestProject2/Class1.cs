@@ -8,6 +8,6 @@ namespace TestProject2
 {
     public class Class1
     {
-        private string a = "1";
+        private string a = "2";
     }
 }
